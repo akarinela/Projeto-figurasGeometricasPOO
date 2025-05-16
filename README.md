@@ -1,4 +1,4 @@
-## Projeto - Figuras Geométricas Planas com POO
+## Projeto de Figuras Geométricas Planas com POO
 Programação Orientada a Objetos aplicada a Figuras Geométricas Planas
 
 Este repositório foi desenvolvido com a finalidade de apresentar, de forma prática e didática, os principais conceitos da **Programação Orientada a Objetos (POO)**, aplicados ao cálculo de áreas de figuras geométricas planas. Através da criação de diferentes classes — cada uma representando uma figura específica — e da organização em pacotes, o projeto reforça princípios como encapsulamento, herança, modularidade, coesão e reutilização de código.
@@ -8,7 +8,7 @@ Desenvolver métodos para calcular a área (com e sem retorno de valor) de vári
 
 Estrutura do Projeto
 O projeto está organizado em dois pacotes principais:
-
+---
 📁 br.edu.principal
 Contém a classe principal com o método main, responsável por:
 
