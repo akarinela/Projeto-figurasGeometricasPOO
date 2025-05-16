@@ -52,4 +52,8 @@ Atributos privados (como base, altura, lados, raio etc.);
 Construtor para inicialização dos atributos;
 
 Métodos calcArea#() com e sem retorno de valor.
+___
+## UML - Diagrama de Classes
+O diagrama de classes UML a seguir ilustra as relações entre os componentes do sistema, destacando as classes, métodos e organização dos pacotes:
 
+![Texto alternativo](URL-da-imagem)
