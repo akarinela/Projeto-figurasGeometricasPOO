@@ -23,7 +23,8 @@ Atributos e comportamentos específicos da figura;
 
 Métodos que calculam a área, tanto com retorno quanto sem retorno (impressão direta).
 ___
-Figuras Geométricas Implementadas
+## Figuras Geométricas Implementadas
+
 As seguintes figuras foram modeladas como classes separadas:
 
 Triângulo
