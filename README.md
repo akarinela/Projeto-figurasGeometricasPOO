@@ -5,10 +5,10 @@ Este repositório foi desenvolvido com a finalidade de apresentar, de forma prá
 ___
 ## Objetivo
 Desenvolver métodos para calcular a área (com e sem retorno de valor) de várias figuras planas, utilizando os fundamentos da programação orientada a objetos na linguagem Java.
-
+___
 Estrutura do Projeto
 O projeto está organizado em dois pacotes principais:
----
+
 📁 br.edu.principal
 Contém a classe principal com o método main, responsável por:
 
@@ -22,7 +22,7 @@ Este pacote agrupa todas as classes que representam figuras geométricas planas.
 Atributos e comportamentos específicos da figura;
 
 Métodos que calculam a área, tanto com retorno quanto sem retorno (impressão direta).
-
+___
 Figuras Geométricas Implementadas
 As seguintes figuras foram modeladas como classes separadas:
 
@@ -51,6 +51,3 @@ Atributos privados (como base, altura, lados, raio etc.);
 Construtor para inicialização dos atributos;
 
 Métodos calcArea#() com e sem retorno de valor.
-
-Diagrama de Classes UML
-O diagrama de classes UML abaixo representa a estrutura do sistema, mostrando os pacotes, classes, métodos e as relações entre os componentes.
