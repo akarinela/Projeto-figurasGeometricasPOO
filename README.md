@@ -52,3 +52,4 @@ Atributos privados (como base, altura, lados, raio etc.);
 Construtor para inicialização dos atributos;
 
 Métodos calcArea#() com e sem retorno de valor.
+
