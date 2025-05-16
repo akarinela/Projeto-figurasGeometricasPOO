@@ -9,14 +9,14 @@ ___
 Estrutura do Projeto
 O projeto está organizado em dois pacotes principais:
 
-📁 br.edu.principal
+### 📁 br.edu.principal
 Contém a classe principal com o método main, responsável por:
 
 Executar os métodos de cálculo de área;
 
 Exibir exemplos práticos do uso das classes de figuras.
 
-📁 br.edu.figurasgeometricasplanas
+### 📁 br.edu.figurasgeometricasplanas
 Este pacote agrupa todas as classes que representam figuras geométricas planas. Cada classe inclui:
 
 Atributos e comportamentos específicos da figura;
