@@ -56,7 +56,7 @@ ___
 ## UML - Diagrama de Classes
 O diagrama de classes UML a seguir ilustra as relações entre os componentes do sistema, destacando as classes, métodos e organização dos pacotes:
 
-(![Calculadora Forma Geométricas](https://github.com/user-attachments/assets/d180fd41-6041-4ee8-b486-94a769a934ea)
+![Calculadora Forma Geométricas](https://github.com/user-attachments/assets/d180fd41-6041-4ee8-b486-94a769a934ea)
 
 ## UML - Diagrama de Encapsulamento em Java
 Este diagrama demonstra o uso do princípio de encapsulamento em um programa Java, onde atributos são mantidos privados e acessados por meio de métodos públicos (getters e setters). O modelo mostra como as classes protegem seus dados internos e garantem acesso controlado:
