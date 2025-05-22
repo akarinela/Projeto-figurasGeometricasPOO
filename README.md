@@ -27,23 +27,7 @@ ___
 
 As seguintes figuras foram modeladas como classes separadas:
 
-Triângulo
-
-Quadrado
-
-Retângulo
-
-Círculo
-
-Losango
-
-Trapézio
-
-Paralelogramo
-
-Hexágono
-
-Pentágono
+Triângulo, Quadrado, Retângulo, Círculo, Losango, Trapézio, Paralelogramo, Hexágono, Pentágono
 
 Cada classe segue um padrão com:
 
