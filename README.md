@@ -56,4 +56,4 @@ ___
 ## UML - Diagrama de Classes
 O diagrama de classes UML a seguir ilustra as relações entre os componentes do sistema, destacando as classes, métodos e organização dos pacotes:
 
-[Acesse o diagrama Calculadora formas geométricas](DOC-20250516-WA0017..pdf)
+[Acesse o diagrama Calculadora formas geométricas]()
