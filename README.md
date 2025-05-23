@@ -45,7 +45,8 @@ O diagrama de classes UML a seguir ilustra as relações entre os componentes do
 ## UML - Diagrama de Encapsulamento em Java
 Este diagrama demonstra o uso do princípio de encapsulamento em um programa Java, onde atributos são mantidos privados e acessados por meio de métodos públicos (getters e setters). O modelo mostra como as classes protegem seus dados internos e garantem acesso controlado:
 
-(![Calculadora Forma Geométricas]()
+![Calculadora Forma Geométricas](https://github.com/user-attachments/assets/bf98efc5-6ec0-4b8f-a83e-40cef52ca38e)
+
 
 ## UML - Diagrama de Herança em Java
 O diagrama abaixo representa a aplicação do conceito de herança em Java, onde classes filhas herdam atributos e comportamentos de uma classe base. Ele ilustra a hierarquia entre classes, promovendo reutilização de código e extensão de funcionalidades:
