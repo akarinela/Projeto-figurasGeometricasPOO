@@ -9,19 +9,13 @@ Desenvolver métodos para calcular a área (com e sem retorno de valor) de vári
 Estrutura do Projeto
 O projeto está organizado em dois pacotes principais:
 
-### 📁 br.edu.principal
-Contém a classe principal com o método main, responsável por:
+## ⚙️ Conceitos de POO Aplicados
 
-Executar os métodos de cálculo de área;
+◻️ Abstração
 
-Exibir exemplos práticos do uso das classes de figuras.
+🧷 Encapsulamento
 
-### 📁 br.edu.figurasgeometricasplanas
-Este pacote agrupa todas as classes que representam figuras geométricas planas. Cada classe inclui:
-
-Atributos e comportamentos específicos da figura;
-
-Métodos que calculam a área, tanto com retorno quanto sem retorno (impressão direta).
+🧬 Herança
 ___
 ## Figuras Geométricas Implementadas
 
@@ -33,11 +27,17 @@ Cada classe segue um padrão com:
 
 Atributos privados (como base, altura, lados, raio etc.);
 
-Construtor para inicialização dos atributos;
-
-Métodos calcArea#() com e sem retorno de valor.
 ___
-## UML - Diagrama de Classes
+
+## 🗂️ figurasGeometricas - Abstração
+Demonstra o conceito de abstração, ocultando os detalhes internos da implementação das figuras e expondo apenas o essencial para o usuário.
+
+Pacotes:
+
+br.edu.principal → Contém o método Principal com testes das classes.
+br.edu.figurasgeometricasplanas → Contém classes abstratas e apenas figuras planas.
+
+## 📐 UML - Diagrama de Abstração em Java
 O diagrama de classes UML a seguir ilustra as relações entre os componentes do sistema, destacando as classes, métodos e organização dos pacotes:
 
 ![Calculadora Forma Geométricas](https://github.com/user-attachments/assets/d180fd41-6041-4ee8-b486-94a769a934ea)
