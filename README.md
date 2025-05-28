@@ -7,7 +7,6 @@ Este repositório foi desenvolvido com a finalidade de apresentar, de forma prá
 Desenvolver métodos para calcular a área (com e sem retorno de valor) de várias figuras planas, utilizando os fundamentos da programação orientada a objetos na linguagem Java.
 
 Estrutura do Projeto
-O projeto está organizado em dois pacotes principais:
 
 ## ⚙️ Conceitos de POO Aplicados
 
