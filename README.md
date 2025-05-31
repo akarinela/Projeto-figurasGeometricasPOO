@@ -28,6 +28,8 @@ O diagrama de classes UML a seguir ilustra as relações entre os componentes do
 
 ![Calculadora Forma Geométricas](https://github.com/user-attachments/assets/d180fd41-6041-4ee8-b486-94a769a934ea)
 
+[Ver PDF](docs/CalculadoraFormasGeométricasAbstração.pdf)
+
 ## 🗂️ figurasGeometricas – Encapsulamento
 Este módulo aplica o conceito de encapsulamento, protegendo os atributos das classes e permitindo o acesso a eles apenas por meio de métodos públicos (get e set), garantindo segurança e controle sobre os dados.
 
@@ -44,6 +46,8 @@ Este diagrama demonstra o uso do princípio de encapsulamento em um programa Jav
 
 ![Calculadora Forma Geométricas](https://github.com/user-attachments/assets/bf98efc5-6ec0-4b8f-a83e-40cef52ca38e)
 
+[Ver PDF](docs/CalculadoraFormasGeométricasEncapsulado.pdf)
+
 ## 🗂️ figurasGeometricas – Herança
 Este módulo demonstra o uso de herança, permitindo a reutilização de código e a redução de redundância por meio da criação de subclasses que herdam atributos e comportamentos de superclasses.
 
@@ -59,4 +63,6 @@ br.edu.figurasgeometricasespaciais → Contém subclasses que herdam da classe a
 O diagrama abaixo representa a aplicação do conceito de herança em Java, onde classes filhas herdam atributos e comportamentos de uma classe base. Ele ilustra a hierarquia entre classes, promovendo reutilização de código e extensão de funcionalidades:
 
 ![Calculadora Forma Geométricas](https://github.com/user-attachments/assets/4f2ba52a-ecc7-474e-9ee6-9defd7dcb335)
+
+[Ver PDF](docs/CalculadoraFormaGeométricasHerença.pdf)
 
